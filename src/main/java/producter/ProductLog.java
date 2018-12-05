@@ -46,6 +46,8 @@ public class ProductLog {
         phoneList.add("17882324598");
         phoneList.add("13094566759");
 //可能会有冲突
+
+        //什么鬼啊?
         phoneNameMap.put("13171182362", "霍风浩");
         phoneNameMap.put("17418906165", "贾鑫瑜");
         phoneNameMap.put("13194555546", "余建堂");
